@@ -1,0 +1,7 @@
+
+#ifndef POWER_MANAGEMENT_INTERPRET_NN_OUTPUT_H_
+#define POWER_MANAGEMENT_INTERPRET_NN_OUTPUT_H_
+
+extern int InterpretNNOutput(float* output);
+
+#endif  // POWER_MANAGEMENT_GESTURE_PREDICTOR_H_

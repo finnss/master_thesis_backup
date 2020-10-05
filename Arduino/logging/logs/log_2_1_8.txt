@@ -1,0 +1,450 @@
+Dims size2
+model_input->dims->data[0]1
+model_input->dims->data[1]8
+Bad input tensor parameters in model
+<Arduino is ready>
+
+----------------------------
+Loop.
+
+Performing sense cycle...
+sense_cycle_output temp: 29.68
+sense_cycle_output humidity: 22.19
+sense_cycle_output should_ask_nn: 0
+Cycle time elapsed: 5
+BLE time elapsed: 0
+
+Should ask nn: false
+time_to_sleep: 1000
+Total time spent: 8
+<Arduino is ready>
+
+----------------------------
+Loop.
+
+Performing sense cycle...
+sense_cycle_output temp: 29.75
+sense_cycle_output humidity: 22.05
+sense_cycle_output should_ask_nn: 0
+Cycle time elapsed: 5
+BLE time elapsed: 0
+
+Should ask nn: false
+time_to_sleep: 1000
+Total time spent: 7
+<Arduino is ready>
+
+----------------------------
+Loop.
+
+Performing sense cycle...
+sense_cycle_output temp: 29.75
+sense_cycle_output humidity: 21.97
+sense_cycle_output should_ask_nn: 0
+Cycle time elapsed: 5
+BLE time elapsed: 0
+
+Should ask nn: false
+time_to_sleep: 1000
+Total time spent: 8
+<Arduino is ready>
+
+----------------------------
+Loop.
+
+Performing sense cycle...
+sense_cycle_output temp: 29.77
+sense_cycle_output humidity: 21.99
+sense_cycle_output should_ask_nn: 0
+Cycle time elapsed: 5
+BLE time elapsed: 0
+
+Should ask nn: false
+time_to_sleep: 1000
+Total time spent: 8
+<Arduino is ready>
+
+----------------------------
+Loop.
+
+Performing sense cycle...
+sense_cycle_output temp: 29.77
+sense_cycle_output humidity: 21.95
+sense_cycle_output should_ask_nn: 0
+Cycle time elapsed: 5
+BLE time elapsed: 0
+
+Should ask nn: false
+time_to_sleep: 1000
+Total time spent: 7
+<Arduino is ready>
+
+----------------------------
+Loop.
+
+Performing sense cycle...
+sense_cycle_output temp: 29.79
+sense_cycle_output humidity: 22.02
+sense_cycle_output should_ask_nn: 0
+Cycle time elapsed: 5
+BLE time elapsed: 0
+
+Should ask nn: false
+time_to_sleep: 1000
+Total time spent: 8
+<Arduino is ready>
+
+----------------------------
+Loop.
+
+Performing sense cycle...
+sense_cycle_output temp: 29.75
+sense_cycle_output humidity: 21.98
+sense_cycle_output should_ask_nn: 0
+Cycle time elapsed: 5
+BLE time elapsed: 0
+
+Should ask nn: false
+time_to_sleep: 1000
+Total time spent: 8
+<Arduino is ready>
+
+----------------------------
+Loop.
+
+Performing sense cycle...
+sense_cycle_output temp: 29.79
+sense_cycle_output humidity: 21.97
+sense_cycle_output should_ask_nn: 0
+Cycle time elapsed: 5
+BLE time elapsed: 0
+
+Should ask nn: false
+time_to_sleep: 1000
+Total time spent: 8
+<Arduino is ready>
+
+----------------------------
+Loop.
+
+Performing sense cycle...
+sense_cycle_output temp: 29.75
+sense_cycle_output humidity: 21.94
+sense_cycle_output should_ask_nn: 0
+Cycle time elapsed: 5
+BLE time elapsed: 0
+
+Should ask nn: false
+time_to_sleep: 1000
+Total time spent: 8
+<Arduino is ready>
+
+----------------------------
+Loop.
+
+Performing sense cycle...
+sense_cycle_output temp: 29.79
+sense_cycle_output humidity: 21.96
+sense_cycle_output should_ask_nn: 1
+Cycle time elapsed: 5
+BLE time elapsed: 0
+
+Should ask nn: true
+Asking neural network for updated config...
+Input 1: 0.30
+Input 2: -0.70
+After input setting.
+After invoke. Time spent:0
+Got NN Output! 0.01
+Interpreting NN output...Total invoke time elapsed: 3
+time_to_sleep: 5039
+Total time spent: 11
+<Arduino is ready>
+
+----------------------------
+Loop.
+
+Performing sense cycle...
+sense_cycle_output temp: 29.73
+sense_cycle_output humidity: 21.93
+sense_cycle_output should_ask_nn: 0
+Cycle time elapsed: 5
+BLE time elapsed: 0
+
+Should ask nn: false
+time_to_sleep: 5039
+Total time spent: 8
+<Arduino is ready>
+
+----------------------------
+Loop.
+
+Performing sense cycle...
+sense_cycle_output temp: 29.75
+sense_cycle_output humidity: 21.95
+sense_cycle_output should_ask_nn: 0
+Cycle time elapsed: 5
+BLE time elapsed: 0
+
+Should ask nn: false
+time_to_sleep: 5039
+Total time spent: 8
+<Arduino is ready>
+
+----------------------------
+Loop.
+
+Performing sense cycle...
+sense_cycle_output temp: 29.73
+sense_cycle_output humidity: 21.90
+sense_cycle_output should_ask_nn: 1
+Cycle time elapsed: 5
+BLE time elapsed: 0
+
+Should ask nn: true
+Asking neural network for updated config...
+Input 1: -0.80
+Input 2: -0.10
+After input setting.
+After invoke. Time spent:0
+Got NN Output! 0.00
+Interpreting NN output...Total invoke time elapsed: 3
+time_to_sleep: 5000
+Total time spent: 11
+<Arduino is ready>
+
+----------------------------
+Loop.
+
+Performing sense cycle...
+sense_cycle_output temp: 29.75
+sense_cycle_output humidity: 21.97
+sense_cycle_output should_ask_nn: 0
+Cycle time elapsed: 5
+BLE time elapsed: 0
+
+Should ask nn: false
+time_to_sleep: 5000
+Total time spent: 8
+<Arduino is ready>
+
+----------------------------
+Loop.
+
+Performing sense cycle...
+sense_cycle_output temp: 29.62
+sense_cycle_output humidity: 22.05
+sense_cycle_output should_ask_nn: 0
+Cycle time elapsed: 5
+BLE time elapsed: 0
+
+Should ask nn: false
+time_to_sleep: 5000
+Total time spent: 8
+<Arduino is ready>
+
+----------------------------
+Loop.
+
+Performing sense cycle...
+sense_cycle_output temp: 29.36
+sense_cycle_output humidity: 22.69
+sense_cycle_output should_ask_nn: 1
+Cycle time elapsed: 5
+BLE time elapsed: 0
+
+Should ask nn: true
+Asking neural network for updated config...
+Input 1: -1.00
+Input 2: -0.20
+After input setting.
+After invoke. Time spent:0
+Got NN Output! 0.00
+Interpreting NN output...Total invoke time elapsed: 3
+time_to_sleep: 5000
+Total time spent: 11
+<Arduino is ready>
+
+----------------------------
+Loop.
+
+Performing sense cycle...
+sense_cycle_output temp: 29.15
+sense_cycle_output humidity: 22.53
+sense_cycle_output should_ask_nn: 0
+Cycle time elapsed: 5
+BLE time elapsed: 0
+
+Should ask nn: false
+time_to_sleep: 5000
+Total time spent: 8
+<Arduino is ready>
+
+----------------------------
+Loop.
+
+Performing sense cycle...
+sense_cycle_output temp: 28.96
+sense_cycle_output humidity: 22.44
+sense_cycle_output should_ask_nn: 0
+Cycle time elapsed: 5
+BLE time elapsed: 0
+
+Should ask nn: false
+time_to_sleep: 5000
+Total time spent: 8
+<Arduino is ready>
+
+----------------------------
+Loop.
+
+Performing sense cycle...
+sense_cycle_output temp: 28.68
+sense_cycle_output humidity: 22.47
+sense_cycle_output should_ask_nn: 1
+Cycle time elapsed: 5
+BLE time elapsed: 0
+
+Should ask nn: true
+Asking neural network for updated config...
+Input 1: 0.20
+Input 2: 0.60
+After input setting.
+After invoke. Time spent:0
+Got NN Output! 0.00
+Interpreting NN output...Total invoke time elapsed: 3
+time_to_sleep: 5000
+Total time spent: 11
+<Arduino is ready>
+
+----------------------------
+Loop.
+
+Performing sense cycle...
+sense_cycle_output temp: 28.34
+sense_cycle_output humidity: 22.32
+sense_cycle_output should_ask_nn: 0
+Cycle time elapsed: 5
+BLE time elapsed: 0
+
+Should ask nn: false
+time_to_sleep: 5000
+Total time spent: 8
+<Arduino is ready>
+
+----------------------------
+Loop.
+
+Performing sense cycle...
+sense_cycle_output temp: 28.15
+sense_cycle_output humidity: 22.36
+sense_cycle_output should_ask_nn: 0
+Cycle time elapsed: 5
+BLE time elapsed: 0
+
+Should ask nn: false
+time_to_sleep: 5000
+Total time spent: 8
+<Arduino is ready>
+
+----------------------------
+Loop.
+
+Performing sense cycle...
+sense_cycle_output temp: 27.92
+sense_cycle_output humidity: 22.57
+sense_cycle_output should_ask_nn: 1
+Cycle time elapsed: 5
+BLE time elapsed: 0
+
+Should ask nn: true
+Asking neural network for updated config...
+Input 1: 0.60
+Input 2: 0.90
+After input setting.
+After invoke. Time spent:0
+Got NN Output! 0.00
+Interpreting NN output...Total invoke time elapsed: 3
+time_to_sleep: 5014
+Total time spent: 11
+<Arduino is ready>
+
+----------------------------
+Loop.
+
+Performing sense cycle...
+sense_cycle_output temp: 27.64
+sense_cycle_output humidity: 22.53
+sense_cycle_output should_ask_nn: 0
+Cycle time elapsed: 5
+BLE time elapsed: 0
+
+Should ask nn: false
+time_to_sleep: 5014
+Total time spent: 8
+<Arduino is ready>
+
+----------------------------
+Loop.
+
+Performing sense cycle...
+sense_cycle_output temp: 27.45
+sense_cycle_output humidity: 22.75
+sense_cycle_output should_ask_nn: 0
+Cycle time elapsed: 5
+BLE time elapsed: 0
+
+Should ask nn: false
+time_to_sleep: 5014
+Total time spent: 7
+<Arduino is ready>
+
+----------------------------
+Loop.
+
+Performing sense cycle...
+sense_cycle_output temp: 27.19
+sense_cycle_output humidity: 22.84
+sense_cycle_output should_ask_nn: 1
+Cycle time elapsed: 5
+BLE time elapsed: 1
+
+Should ask nn: true
+Asking neural network for updated config...
+Input 1: 0.10
+Input 2: 0.10
+After input setting.
+After invoke. Time spent:0
+Got NN Output! 0.00
+Interpreting NN output...Total invoke time elapsed: 3
+time_to_sleep: 5003
+Total time spent: 11
+<Arduino is ready>
+
+----------------------------
+Loop.
+
+Performing sense cycle...
+sense_cycle_output temp: 27.04
+sense_cycle_output humidity: 22.96
+sense_cycle_output should_ask_nn: 0
+Cycle time elapsed: 5
+BLE time elapsed: 0
+
+Should ask nn: false
+time_to_sleep: 5003
+Total time spent: 8
+<Arduino is ready>
+
+----------------------------
+Loop.
+
+Performing sense cycle...
+sense_cycle_output temp: 26.83
+sense_cycle_output humidity: 23.06
+sense_cycle_output should_ask_nn: 0
+Cycle time elapsed: 5
+BLE time elapsed: 0
+
+Should ask nn: false
+time_to_sleep: 5003

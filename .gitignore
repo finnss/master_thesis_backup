@@ -1,0 +1,4 @@
+**/dummy_networks/
+convert_models/tensorflow/
+Arduino/libraries/Arduino-MemoryFree/
+**/node_modules/

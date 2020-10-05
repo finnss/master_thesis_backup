@@ -1,0 +1,40 @@
+.stackedContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.legends {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.legends ul {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+}
+.legends li {
+  list-style-type: none;
+}
+
+.labels li {
+  width: 200px;
+}
+
+.colorBoxes {
+  margin-top: 5px !important;
+}
+.colorBoxes li {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin-bottom: -10px;
+  margin-right: 5px;
+  background-color: red;
+}
+
+.innerCont {
+  display: flex;
+  flex-direction: row;
+}

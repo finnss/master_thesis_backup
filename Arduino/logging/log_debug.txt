@@ -1,0 +1,1 @@
+12:05:2020 16:47:24	This network configuration did NOT compile successfully: depth 4, width 256.

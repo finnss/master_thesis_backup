@@ -1,0 +1,53 @@
+.App {
+}
+/*
+.recharts-surface {
+  width: 600px !important;
+  height: 350px !important;
+}
+*/
+.chartsContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.recharts-legend-wrapper {
+  left: 85px !important;
+}
+
+.barTitle {
+  font-size: 20px;
+  margin-left: 20px;
+  text-align: center;
+  width: 600px;
+  margin-top: 50px;
+}
+
+.barCharts {
+  width: 700px;
+  display: flex;
+  flex-direction: column;
+}
+
+.totalCharts {
+  display: flex;
+  flex-direction: column;
+}
+
+.pieCharts {
+  margin: 0 auto;
+  width: 500px;
+}
+
+h1 {
+  display: inline-block;
+  border-bottom: 5px solid black;
+}
+h2::before {
+  font-family: "Courier New", Courier, monospace;
+  content: ">> ";
+}
+
+.dropdown {
+  margin-left: 30px;
+}
